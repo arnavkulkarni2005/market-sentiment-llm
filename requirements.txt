@@ -1,0 +1,8 @@
+# transformers
+# torch
+# pandas
+# scikit-learn
+# yfinance
+# beautifulsoup4
+# requests
+# tqdm
